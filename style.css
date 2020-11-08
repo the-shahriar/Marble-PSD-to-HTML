@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Navbar */
+
+.navbar-brand{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 2em;
+    font-weight: bold;
+    opacity: .9;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #1abc9c;
+
+}
+
+/* Header Section */
+
+.back-image{
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	min-height: 540px;
+	border-radius: 0px;
+	margin-top: 74px;
+}
+.header h2{
+    color: white;
+    opacity: .6;
+}
+
+.btn{
+    padding: 10px;
+    background-color: #3f8dbf;
+    color: white;
+}
+
+
+/* Main content */
+
+.img1{
+    padding: 18px;
+    background-color: #1abc9c!important;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    text-align: center;
+}
+.img2{
+    padding: 18px;
+    background-color: #d2514b!important;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.img3{
+    padding: 18px;
+    background-color: #66a3c6!important;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.img4{
+    padding: 18px;
+    background-color: #e8c04f!important;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    text-align: center;
+}
+h4{
+    font-size: 25px;
+}
+
+p{
+    font-size: 16px;
+}
+
+/* Blog Section */
+
+.work{
+	font-size: 1.8em;
+    font-weight: bold;
+    opacity: .7;
+}
+
+/* Footer */
+#footer{
+    background-color: black;
+    opacity: .9;
+}
